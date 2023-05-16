@@ -1,2 +1,2 @@
-# Pingpong
+# jogopong
 Jogo de Computador
